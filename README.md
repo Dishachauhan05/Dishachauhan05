@@ -64,29 +64,10 @@ Docker • Git • GitHub • AWS (Basics)
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Document Finder
-
-AI powered system that reads uploaded files and lets users search documents using natural language.
-
-**Tech:** Next.js • AI APIs • Backend APIs
-
----
-
-### ⚖️ Legislate AI
-
-AI based platform that simplifies complex laws into easy-to-understand explanations.
-
-**Tech:** Next.js • Gemini AI
-
----
-
-### 🎙 PersonaPod
-
-AI system that generates podcast-style conversations simulating different life scenarios.
-
-**Tech:** Next.js • AI APIs
-
----
+| Project                                            | Description                                                                                                                                                                                       | Key Features                                                                                                                                                                                                                 | Tech Stack                                       |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Digital AI – Intelligent Document Organizer**    | AI-powered document management system that automatically reads, understands, and organizes uploaded documents using artificial intelligence.                                                      | • Secure user authentication<br>• Document upload system<br>• AI-based document analysis<br>• Automatic summaries<br>• Smart categorization (Resume, Finance, Personal, Reports)<br>• User dashboard for document management | Next.js, TypeScript, React, Supabase, Gemini API |
+| **SafeSpot – Community Safety Reporting Platform** | A safety reporting platform where users can report incidents in real time. The system automatically detects the user's location and pins the report on a map so other users can see unsafe areas. | • User signup & login<br>• Automatic location detection<br>• Incident reporting with images<br>• Map-based incident visualization<br>• Red pin markers for reported locations<br>• Community awareness of unsafe areas       | Next.js, React, Google Maps API, Node.js         |
 
 ## 📈 Current Goals
 
