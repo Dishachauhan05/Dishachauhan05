@@ -9,12 +9,12 @@ My focus is on creating **scalable, real-world products** that solve meaningful 
 
 ## 🚀 About Me
 
-* 🎓 Computer Science student passionate about **AI + Software Engineering**
-* 💻 Strong interest in **Full Stack Development**
-* ⚡ Experienced with **Next.js, Node.js, React, Express**
-* 🧠 Currently exploring **AI-powered SaaS products**
-* 📚 Preparing for **Software Engineering interviews**
-* 🌱 Always learning **System Design & Scalable Architectures**
+* 💻 Full-stack developer focused on building practical and user-friendly web applications
+* 🤖 Interested in integrating **AI capabilities into real-world software products**
+* 🧠 Continuously improving my **backend development, API design, and application architecture skills**
+* 📚 Actively learning **scalable system design and modern development practices**
+* 🚀 Passionate about creating technology that solves real problems and improves user experience
+
 
 ---
 
@@ -64,11 +64,10 @@ My focus is on creating **scalable, real-world products** that solve meaningful 
 
 ## 🧠 Areas of Interest
 
-* Artificial Intelligence
-* Backend Architecture
-* SaaS Product Development
-* Automation Systems
-* Developer Tools
+* 🤖 **AI-Powered Applications**
+* ⚙️ **Full Stack Development** 
+* 🌍 **User-Centric Product Development**
+* 📊 **Backend APIs & System Logic** 
 
 ---
 
@@ -90,19 +89,19 @@ My focus is on creating **scalable, real-world products** that solve meaningful 
 | **SafeSpot – Community Safety Reporting Platform** | A safety reporting platform where users can report incidents in real time. The system automatically detects the user's location and pins the report on a map so other users can see unsafe areas. | • User signup & login<br>• Automatic location detection<br>• Incident reporting with images<br>• Map-based incident visualization<br>• Red pin markers for reported locations<br>• Community awareness of unsafe areas       | Next.js, MERN stack, Google Maps API        |
 
 ## 📈 Current Goals
-
-* Build **production-ready SaaS applications**
-* Contribute to **open source**
-* Master **System Design**
-* Land a **Software Engineering role**
+* 🚀 Building **real-world full stack applications** using modern web technologies
+* 🧠 Learning and integrating **AI features into web applications**
+* 💻 Improving my **backend development skills
+* 🔍 Exploring better ways to design **scalable and user-friendly applications**
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn
-* 🧑‍💻 GitHub
-* 🌍 Portfolio (Coming Soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Disha%20Chauhan-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/disha-chauhan-5489442a7)
+
+💼 LinkedIn: https://www.linkedin.com/in/disha-chauhan-5489442a7
+🐙 GitHub: https://github.com/Dishachauhan05
 
 ---
 
